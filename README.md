@@ -3,6 +3,8 @@
 ## Computer Vision
 https://github.com/lpiekarski/camera-calibration
 
+https://github.com/lpiekarski/image-stitching
+
 https://github.com/lpiekarski/mouse-embryo-cell-detection
 
 ## FinTech
