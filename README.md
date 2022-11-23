@@ -1,11 +1,15 @@
 # Hi there 👋
 
-## Computer Vision
-https://github.com/lpiekarski/camera-calibration
+## My Projects
 
-https://github.com/lpiekarski/image-stitching
+### Computer Vision
+| Name | Description |
+| --- | --- |
+| [Camera Calibration](https://github.com/lpiekarski/camera-calibration) | ESP32 camera calibration implemented in python-opencv |
+| [Image Stitching](https://github.com/lpiekarski/image-stitching) | Panorama image stitching implemented using numpy |
+| [Mouse Embryo Cell Detection](https://github.com/lpiekarski/mouse-embryo-cell-detection) | Object detection task solution for Mouse Embryo Cell Tracking Database using fine-tuned YOLOv7 |
 
-https://github.com/lpiekarski/mouse-embryo-cell-detection
-
-## FinTech
-https://github.com/lpiekarski/algo-trading
+### FinTech
+| Name | Description |
+| --- | --- |
+| [Algorithmic Trading Framework](https://github.com/lpiekarski/algo-trading) | Command line tool for creating, training backtesting and evaluating different models and strategies, collecting stock market data and automatic trading |
