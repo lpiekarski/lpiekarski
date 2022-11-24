@@ -6,7 +6,7 @@
     <thead>
         <tr>
             <th></th>
-            <th>Name</th>
+            <th>Title</th>
             <th>Tools</th>
             <th>Description</th>
         </tr>
