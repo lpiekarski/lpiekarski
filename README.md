@@ -13,3 +13,9 @@
 | Name | Description |
 | --- | --- |
 | [Algorithmic Trading Framework](https://github.com/lpiekarski/algo-trading) | Command line tool for creating, training backtesting and evaluating different models and strategies, collecting stock market data and automatic trading |
+
+### Other
+| Name | Description |
+| --- | --- |
+| [TycheLang](https://github.com/lpiekarski/TycheLang) | Imperative programming language interpreter from scratch |
+| [JS PathTracer](https://github.com/lpiekarski/path-tracer-in-plain-javascript) | Path tracer implemented from scratch in JavaScript |
