@@ -73,7 +73,7 @@
             <td>
               <img src="https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript" />
             </td>
-            <td>Path tracer implemented from scratch in JavaScript</td>
+            <td>Path tracer implemented from scratch</td>
         </tr>
     </tbody>
 </table>
