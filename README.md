@@ -1,4 +1,4 @@
-# Hi there 👋
+# Łukasz Piekarski (Software Engineer / Student)
 
 ## My Projects
 
