@@ -13,7 +13,7 @@
     </thead>
     <tbody>
         <tr>
-            <th rowspan=4>Computer Vision</th>
+            <th rowspan=5>Computer Vision</th>
         </tr>
         <tr>
           <td><a href="https://github.com/lpiekarski/camera-calibration">Camera Calibration</a></td>
@@ -41,6 +41,16 @@
               <img src="https://img.shields.io/badge/OpenCV-black?style=plastic&logo=opencv" /> 
               <img src="https://img.shields.io/badge/NumPy-black?style=plastic&logo=numpy" /></td>
             <td>Object detection task solution for Mouse Embryo Cell Tracking Database using fine-tuned YOLOv7</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lpiekarski/fcos">FCOS</a></td>
+            <td>
+              <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=python" /> 
+              <img src="https://img.shields.io/badge/PyTorch-black?style=plastic&logo=pytorch" /> 
+              <img src="https://img.shields.io/badge/NumPy-black?style=plastic&logo=numpy" />
+              <img src="https://img.shields.io/badge/Pandas-black?style=plastic&logo=pandas" />
+            </td>
+            <td>Implementation of fully convolutional anchorless one-stage object detection on MNIST dataset (<a href="https://arxiv.org/pdf/1904.01355.pdf">Paper</a>)</td>
         </tr>
         <tr>
             <th rowspan=2>FinTech</th>
