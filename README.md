@@ -50,7 +50,7 @@
               <img src="https://img.shields.io/badge/NumPy-black?style=plastic&logo=numpy" />
               <img src="https://img.shields.io/badge/Pandas-black?style=plastic&logo=pandas" />
             </td>
-            <td>Implementation of fully convolutional anchorless one-stage object detection on MNIST dataset (<a href="https://arxiv.org/pdf/1904.01355.pdf">Paper</a>)</td>
+            <td>Implementation of fully convolutional anchorless one-stage object detection (<a href="https://arxiv.org/pdf/1904.01355.pdf">Paper</a>)</td>
         </tr>
         <tr>
             <th rowspan=2>FinTech</th>
