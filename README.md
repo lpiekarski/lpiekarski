@@ -1,4 +1,4 @@
-# Łukasz Piekarski (Software Engineer / Student)
+# Łukasz Piekarski (Software Engineer)
 Hi there! I am Łukasz Piekarski, a software engineer and machine learning student with a strong mathematical background. I have experience in a range of programming languages, including Java, Python, C++, and TypeScript, and am proficient in tools and frameworks such as Maven, Quarkus, Apache Jena, TopBraid Live, PyTorch, Numpy, and Pandas. I have experience in back-end software development, software development, machine learning, and test automation.
 
 I am currently pursuing a Master's degree in Machine Learning at the University of Warsaw. In my previous work experience, I have developed products with top programming and security standards in a multilingual environment, and have demonstrated the ability to adapt and learn in a dynamic environment. I have also designed and tested multiple features for a web-based system for collaborative development of ontologies and taxonomies used by over 500 customers. My specializations include semantic web, linked data, text analytics, and software development.
