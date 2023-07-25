@@ -71,7 +71,7 @@ I am currently pursuing a Master's degree in Machine Learning at the University 
             <td>Command line tool for creating, training backtesting and evaluating different models and strategies, collecting stock market data and automatic trading</td>
         </tr>
         <tr>
-            <th rowspan=3>Other</th>
+            <th rowspan=4>Other</th>
         </tr>
         <tr>
           <td><a href="https://github.com/lpiekarski/TycheLang">TycheLang</a></td>
@@ -80,6 +80,13 @@ I am currently pursuing a Master's degree in Machine Learning at the University 
               <img src="https://img.shields.io/badge/BNFC-black?style=plastic&logo=bnfc" /> 
             </td>
             <td>Imperative programming language interpreter from scratch</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/lpiekarski/path-tracer-in-plain-javascript">HashOctree</a></td>
+            <td>
+              <img src="https://img.shields.io/badge/CPP-black?style=plastic&logo=cplusplus" />
+            </td>
+            <td>An octree data structure with memory optimization</td>
         </tr>
         <tr>
           <td><a href="https://github.com/lpiekarski/path-tracer-in-plain-javascript">JS PathTracer</a></td>
