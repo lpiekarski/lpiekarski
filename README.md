@@ -1,7 +1,15 @@
 # Łukasz Piekarski (Software Engineer)
-Hi there! I am Łukasz Piekarski, a software engineer and machine learning student with a strong mathematical background. I have experience in a range of programming languages, including Java, Python, C++, and TypeScript, and am proficient in tools and frameworks such as Maven, Quarkus, Apache Jena, TopBraid Live, PyTorch, Numpy, and Pandas. I have experience in back-end software development, software development, machine learning, and test automation.
+I am a passionate Software Engineer with a strong academic background in Machine Learning and Computer Science. Currently pursuing a Master's in Machine Learning at the University of Warsaw, I have gained practical experience in various classical and modern machine learning models, including MLPs, CNNs, RNNs, FCOS, SimCLR, GPT, and BERT. My projects, such as "Simple Contrastive Learning for Amino Acid Sequences" and "A machine learning approach for cancer treatment optimization," showcase my dedication to exploring innovative solutions in the field.
 
-I am currently pursuing a Master's degree in Machine Learning at the University of Warsaw. In my previous work experience, I have developed products with top programming and security standards in a multilingual environment, and have demonstrated the ability to adapt and learn in a dynamic environment. I have also designed and tested multiple features for a web-based system for collaborative development of ontologies and taxonomies used by over 500 customers. My specializations include semantic web, linked data, text analytics, and software development.
+Throughout my career, I have honed my skills in both back-end and full-stack software development. In my current role as a Full-Stack Software Engineer at RD Projekt, I contribute to Semaphore, a Semantic AI Platform used by reputable companies like HP, Nike, and The New York Times. Additionally, I have valuable experience in working with Java, Quarkus, Tomcat, Maven, Apache Jena, and Jenkins, specializing in Semantic Web and Text Analytics.
+
+Previously, I worked at Atinea and RemiVision, where I handled government internal systems and developed a demo version of Dreamland Story with Facebook API integration for Ad Games, showcasing my versatility in C#, SharePoint, SQL, Python, and TypeScript.
+
+In my free time, I am dedicated to open-source projects, such as the Algorithmic Trading Framework, a Python-based solution for implementing and deploying stock trading strategies, and the Tyche Language Interpreter, an imperative programming language I created.
+
+My skillset also includes proficiency in Java, Python, TypeScript, C++, SQL, and various tools and frameworks like NodeJS, PyTorch, Numpy, Pandas, and Maven.
+
+I am constantly seeking new challenges and opportunities to contribute to the tech industry, and I look forward to leveraging my skills to make meaningful contributions to future projects.
 
 ## My Projects
 
